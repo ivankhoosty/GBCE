@@ -1,0 +1,7 @@
+#Stock symbol,timestamp(as yyyy-mm-dd hh:mm:ss[.fffffffff]),quantity,Buy or Sell indicator(B or S),price(in pence)
+
+POP,2017-01-03 23:00:10.525,10,S,10
+POP,2017-01-03 23:00:12.525,20,S,25
+TEA,2017-01-03 22:58:30.12,150,B,14.4
+TEA,2017-01-03 22:57:10.525,100,B,35
+GIN,2017-01-03 22:59:10.525,100,B,12
